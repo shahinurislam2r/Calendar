@@ -1,0 +1,87 @@
+td{
+    width: 50px;
+    height: 40px;
+    padding: 5px;
+    text-align: center;
+    font-size: 18px;
+}
+.day{
+    background-color:#2e4f4f ;
+    color: #ea967a;
+    font-weight: bold;
+}
+td.day-1{
+    border-radius: 20px 0px 0px 0px;
+}
+td.day-7{
+    border-radius: 00px 20px 0px 0px;
+}
+.month{
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 0px 0px 0px 20px;
+    color: #2e4f4f;
+}
+.year{
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 0px 0px 20px 0px;
+    color:#2e4f4f;
+}
+
+.date-g29{
+    background-color: #566b2e;
+    border-radius: 35px 0px 35px 0px;
+    color: #ea967a;
+}
+.date-g30{
+    background-color: #566b2e;
+    border-radius: 0px 0px 30px 30px;
+    color: #ea967a;
+}
+.date-g31{
+    background-color: #566b2e;
+    border-radius: 0px 35px 0px 30px;
+    color: #ea967a;
+}
+.date-g1{
+    background-color: #566b2e;
+    border-radius: 0px 35px 0px 15px;
+    color:rgb(211, 8, 8);
+}
+.date-g2{
+    background-color: #566b2e;
+    border-radius: 35px 0px 30px 0px;
+    color: #ea967a;
+}
+
+
+.shahin{
+    background-color:#ea967a ;
+}
+
+
+.date-1{
+    background-color:#ea967a ;
+    border-radius: 35px 0px 0px 35px;
+}
+.date-3{
+    background-color:#ea967a ;
+    color:rgb(211, 8, 8);
+}
+.date-30{
+    background-color:#ea967a ;
+    border-radius: 0px 35px 35px 0px;
+}
+.date-26{
+    background-color:#ea967a ;
+    border-radius: 0px 0px 0px 20px;
+}
+.date-25{
+    background-color:#ea967a ;
+    border-radius: 0px 0px 20px 0px;
+}
+
+.friday{
+    color: rgb(211, 8, 8);
+}
